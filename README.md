@@ -1,4 +1,7 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEw5Lp-bpt5WA/profile-displaybackgroundimage-shrink_350_1400/0/1659643034405?e=1665619200&v=beta&t=4vcgFt3Xcpg6ObgknloWwOfTTO3PS2V5TqNwky47MF0)
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEw5Lp-bpt5WA/profile-displaybackgroundimage-shrink_200_800/0/1659643034405?e=1665619200&v=beta&t=i_NtCcog5RxVW0yV7HNJFBR2-2Amk_o8R641Fh38TWU"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Daniel Vinagre</h1>
 <h3 align="center">A Software Developer from Spain</h3>
 
