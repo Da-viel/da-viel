@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋 I'm Daniel Vinagre</h1>
+
 <img src= "https://www.team7india.com/img/software-banner.jpg" />
+<h1 align="center">Hi 👋 I'm Daniel Vinagre</h1>
 <h3 align="center">A Software Developer from Spain</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding_Image"/>
@@ -10,9 +11,9 @@
 
 - 🔭 I’m currently working on **Softtek**
 
-- 🌱 I’m currently learning **Kotlin and Swift**
+- 🌱 I’m currently learning **Kotlin, Swift and DevOps**
 
-- 💬 Ask me about **React, Next, JS and Java**
+- 💬 Ask me about **QA, React, Next, JS and Java**
 
 - 📫 How to reach me **Danielvinagre98@gmail.com**
 
