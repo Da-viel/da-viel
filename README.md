@@ -1,4 +1,5 @@
 <p align="center">
+<img src= "https://www.team7india.com/img/software-banner.jpg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel Vinagre</h1>
