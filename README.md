@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://img.freepik.com/vector-gratis/banner-desarrollo-aplicaciones_1325-399.jpg?w=1380&t=st=1668502665~exp=1668503265~hmac=a83b7013192cac2748dbb28db6d07d5619d4de987e5675de97b3dff9e9d0e0a4"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel Vinagre</h1>
