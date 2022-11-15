@@ -1,8 +1,5 @@
-<p align="center">
+<h1 align="center">Hi 👋 I'm Daniel Vinagre</h1>
 <img src= "https://www.team7india.com/img/software-banner.jpg" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Daniel Vinagre</h1>
 <h3 align="center">A Software Developer from Spain</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding_Image"/>
